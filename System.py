@@ -1,6 +1,6 @@
 # Sistema de ajuda em Python
 from time import sleep 
-# Cores que podem ser utilizadas no título do sistema, caso deseje pode adicionar mais cores.
+# Cores que podem ser utilizadas no título do sistema, caso deseje pode adicionar mais cores. 
 cor = (
 '\033[m', #0 - Sem cor 
 '\033[0;30;41m', #1 - Vermelho
